@@ -1,0 +1,21 @@
+E commerce medicine website for backend code structure
+
+code is not in front end react & for back end connection string is not set
+use for code data.. in that login ,regitsrtion, list all
+
+
+packages-
+
+front end
+
+npm i @material-ui/lab --force
+npm i axios --force
+npm install @material-ui/icons --force
+npm install @material-ui/core --force
+npm install util --force
+npm install cors --force
+
+
+back end-
+
+System.Data.SqlClient 4.8.5
