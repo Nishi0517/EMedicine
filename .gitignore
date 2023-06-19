@@ -1,3 +1,4 @@
-/bin
-/vs
-/obj
+/EMedicineBE/.vs
+/EMedicineBE/EMedicineBE/bin
+/EMedicineBE/EMedicineBE/obj
+/FrontendReact/my-app/node_modules
